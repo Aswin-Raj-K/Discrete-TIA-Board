@@ -3,15 +3,21 @@
 ## Introduction
 This repository provides a comprehensive overview of the design and testing of a Discrete TIA board. The board is designed to perform critical functions, such as transimpedance amplification (TIA), voltage amplification (2VB Generator), and low-pass filtering. The primary goal of this documentation is to present the board’s specifications, design details, and test results, along with addressing potential issues and troubleshooting methods encountered during the development process.
 
-<p align="center">
-  <img src="BoardTopView.jpg" alt="Image 1" width="45%" />
-  <img src="BoardBottomView.jpg" alt="Image 2" width="45%" />
-</p>
+<div align="center">
+  <img src="BoardTopView.jpg" alt="Board Top View" width="45%" />
+</div>
 
-<p align="center">
-  <em>Figure 1: Top View </em> &emsp; <em>Figure 2: Bottom View</em>
-</p>
+<div align="center">
+  <em>Figure 1: Board Top View</em>
+</div>
 
+<div style="float: left; padding-right: 20px;">
+  <img src="BoardBottomView.jpg" alt="Board Bottom View" width="45%" />
+</div>
+
+<div style="float: left;">
+  <em>Figure 2: Board Bottom View</em>
+</div>
 
 
 ## Board Overview
