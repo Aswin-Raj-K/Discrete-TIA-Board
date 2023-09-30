@@ -1,24 +1,4 @@
 # Discrete TIA Board Documentation
-### Contents
-1. [Introduction](#introduction)
-2. [Board Overview](#board-overview)
-   1. [Specifications](#specifications)
-   2. [Design](#design)
-      - [TIA](#tia)
-      - [2VB Generator (Voltage Amplifier)](#2vb-generator-voltage-amplifier)
-      - [Low Pass filter](#low-pass-filter)
-   3. [TIA Channel](#tia-channel)
-   4. [Components List](#components-list)
-3. [Test Results](#test-results)
-   1. [Basic Functionality Test](#basic-functionality-test)
-      - [Testing TIA](#testing-tia)
-      - [Testing the voltage amplifier](#testing-the-voltage-amplifier)
-      - [Testing the Low Pass Filter](#testing-the-low-pass-filter)
-   2. [Noise Test](#noise-test)
-4. [Trouble Shooting](#trouble-shooting)
-   1. [High Frequency Noise from the Power Supply](#high-frequency-noise-from-the-power-supply)
-   2. [Noise Induced by the Cables](#noise-induced-by-the-cables)
-   3. [Noise induced by the Power Adapter](#noise-induced-by-the-power-adapter)
 
 ## Introduction
 This repository provides a comprehensive overview of the design and testing of a Discrete TIA board. The board is designed to perform critical functions, such as transimpedance amplification (TIA), voltage amplification (2VB Generator), and low-pass filtering. The primary goal of this documentation is to present the board’s specifications, design details, and test results, along with addressing potential issues and troubleshooting methods encountered during the development process.
